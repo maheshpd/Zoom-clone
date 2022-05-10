@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "338237912325",
+    "firebase_url": "https://blogpost-f878a.firebaseio.com",
+    "project_id": "blogpost-f878a",
+    "storage_bucket": "blogpost-f878a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338237912325:android:4d3b2b00834f10e9a3736c",
+        "android_client_info": {
+          "package_name": "com.createsapp.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338237912325-qo5r48snagta27maoofm276av8vcibcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkY67j2y1Aowq8KsjmtqJHVvWgrRo7noM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338237912325-qo5r48snagta27maoofm276av8vcibcm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "338237912325-01d1n8rd53bpuen4a80que065pkie8mm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.FirebaseSocial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338237912325:android:10f1aea4d33949f6a3736c",
+        "android_client_info": {
+          "package_name": "com.example.zoom_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338237912325-j3nn0l7djgjudefr92dt16rg9lmimqpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoom_clone",
+            "certificate_hash": "cc2d546b319c4cb6f4ce34af7de5a21954679b25"
+          }
+        },
+        {
+          "client_id": "338237912325-qo5r48snagta27maoofm276av8vcibcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkY67j2y1Aowq8KsjmtqJHVvWgrRo7noM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338237912325-qo5r48snagta27maoofm276av8vcibcm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "338237912325-01d1n8rd53bpuen4a80que065pkie8mm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.FirebaseSocial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338237912325:android:9b5b12f6314789ee",
+        "android_client_info": {
+          "package_name": "com.mahesh.androidissimples.blogpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338237912325-rn0580rl67beeu0i196fkrn5igf7ooni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahesh.androidissimples.blogpost",
+            "certificate_hash": "40d5caf8b5793ae5e017c8b8e96cf14564664489"
+          }
+        },
+        {
+          "client_id": "338237912325-qo5r48snagta27maoofm276av8vcibcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkY67j2y1Aowq8KsjmtqJHVvWgrRo7noM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338237912325-qo5r48snagta27maoofm276av8vcibcm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "338237912325-01d1n8rd53bpuen4a80que065pkie8mm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.FirebaseSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
